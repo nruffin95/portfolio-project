@@ -1,0 +1,52 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+
+/* Styles For Header and Nav Section */
+h1 {
+    font-size: 50px;
+    color: black;
+    border: 10px solid white;
+    background-color: white;
+    cursor: pointer;
+    margin-right: auto;
+    position: relative;
+    right: 150px;
+
+}
+
+li, a {
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 22px;
+    color: #edf0f1;
+    text-decoration: none;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 10%;
+}
+
+.nav-items {
+    list-style: none;
+}
+
+.nav-items li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav-items li a:hover {
+    color: aqua;
+}
+/* Styles For Header and Nav Section End */
+
+
