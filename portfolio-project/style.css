@@ -49,4 +49,12 @@ header {
 }
 /* Styles For Header and Nav Section End */
 
+.hero-image {
+    height: 200px;
+    width: 100%;
+}
 
+.hero-container h2{
+    position: relative;
+    color: red;
+}
