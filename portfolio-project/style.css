@@ -116,3 +116,19 @@ header {
     font-size: 30px;
 }
 
+.contactme-nav {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding-top: 50px;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+.contactme-nav li a {
+    color: black;
+    font-size: 40px;
+}
+
+.contactme-nav li a:hover {
+    color: aqua;
