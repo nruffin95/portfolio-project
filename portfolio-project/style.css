@@ -135,6 +135,8 @@ header {
     background-image: url(./Images/placeholder-image1.jpg);
     background-position: 50% 50%;
     font-size: 30px;
+    color: black;
+    font-weight: bold;
 }
 
 .box3 {
@@ -147,6 +149,8 @@ header {
     font-size: 30px;
     background-image: url(./Images/ruby1.jpg);
     background-position: 50% 50%;
+    color: black;
+    font-weight: bold;
  }
 
 .box4 {
@@ -160,6 +164,8 @@ header {
     font-size: 30px;
     background-image: url(./Images/javascript-illustration.jpg);
     background-position: 90% 50%;
+    color: black;
+    font-weight: bold;
 }
 
 .box5 {
@@ -172,6 +178,8 @@ header {
     font-size: 30px;
     background-image: url(./Images/caculator.jpg);
     background-position: 50% 40%;
+    color: black;
+    font-weight: bold;
 }
 
 .box6 {
@@ -184,6 +192,8 @@ header {
     font-size: 30px;
     background-image: url(./Images/placeholder3.jpg);
     background-position: 50% 40%;
+    color: black;
+    font-weight: bold;
 }
 
 :hover {
