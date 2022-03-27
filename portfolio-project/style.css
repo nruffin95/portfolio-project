@@ -127,17 +127,18 @@ header {
 }
 
 .box2 {
-    border: 2px solid red;
+    border: 2px solid black;
     height: 300px;
     width: 910px;
     margin-left: 150px;
     margin-top: 5px;
     background-image: url(./Images/placeholder-image1.jpg);
     background-position: 50% 50%;
+    font-size: 30px;
 }
 
 .box3 {
-    border: 2px solid red;
+    border: 2px solid black;
     height: 150px;
     width: 450px;
     position: relative;
@@ -149,7 +150,7 @@ header {
  }
 
 .box4 {
-    border: 2px solid red;
+    border: 2px solid black;
     height: 150px;
     width: 450px;
     position: relative;
@@ -162,7 +163,7 @@ header {
 }
 
 .box5 {
-    border: 2px solid red;
+    border: 2px solid black;
     height: 150px;
     width: 450px;
     position: relative;
@@ -174,7 +175,7 @@ header {
 }
 
 .box6 {
-    border: 2px solid red;
+    border: 2px solid black;
     height: 150px;
     width: 450px;
     position: relative;
@@ -183,6 +184,10 @@ header {
     font-size: 30px;
     background-image: url(./Images/placeholder3.jpg);
     background-position: 50% 40%;
+}
+
+:hover {
+
 }
 
 /* Work And Each Box Section Style Ends*/
