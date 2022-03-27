@@ -106,7 +106,7 @@ header {
 
 /* About Me & Flex Container Style Ends*/
 
-/* Work Section Style Starts*/
+/* Work And Each Box Section Style Starts*/
 
 .container {
 
@@ -132,6 +132,8 @@ header {
     width: 910px;
     margin-left: 150px;
     margin-top: 5px;
+    background-image: url(./Images/placeholder-image1.jpg);
+    background-position: 50% 50%;
 }
 
 .box3 {
@@ -140,8 +142,11 @@ header {
     width: 450px;
     position: relative;
     bottom: 450px;
-    left: 360px
-}
+    left: 360px;
+    font-size: 30px;
+    background-image: url(./Images/ruby1.jpg);
+    background-position: 50% 50%;
+ }
 
 .box4 {
     border: 2px solid red;
@@ -151,6 +156,9 @@ header {
     bottom: 450px;
     left: 360px;
     margin-left: 10px;
+    font-size: 30px;
+    background-image: url(./Images/javascript-illustration.jpg);
+    background-position: 90% 50%;
 }
 
 .box5 {
@@ -160,6 +168,9 @@ header {
     position: relative;
     bottom: 250px;
     right: 550px;
+    font-size: 30px;
+    background-image: url(./Images/caculator.jpg);
+    background-position: 50% 40%;
 }
 
 .box6 {
@@ -168,11 +179,13 @@ header {
     width: 450px;
     position: relative;
     bottom: 400px;
-    left: 370px;
+    left: 820px;
+    font-size: 30px;
+    background-image: url(./Images/placeholder3.jpg);
+    background-position: 50% 40%;
 }
 
-
-/* Work Section Style Ends*/
+/* Work And Each Box Section Style Ends*/
 
 /* Contact Me Section Style Starts*/
 
