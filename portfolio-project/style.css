@@ -137,6 +137,7 @@ header {
     font-size: 30px;
     color: black;
     font-weight: bold;
+    opacity: 0.6;
 }
 
 .box3 {
@@ -151,6 +152,7 @@ header {
     background-position: 50% 50%;
     color: black;
     font-weight: bold;
+    opacity: 0.6;
  }
 
 .box4 {
@@ -166,6 +168,7 @@ header {
     background-position: 90% 50%;
     color: black;
     font-weight: bold;
+    opacity: 0.6;
 }
 
 .box5 {
@@ -180,6 +183,7 @@ header {
     background-position: 50% 40%;
     color: black;
     font-weight: bold;
+    opacity: 0.6;
 }
 
 .box6 {
@@ -194,10 +198,13 @@ header {
     background-position: 50% 40%;
     color: black;
     font-weight: bold;
+    opacity: 0.6;
 }
 
-:hover {
 
+.box2:hover, .box3:hover,.box4:hover, .box5:hover, .box6:hover {
+    opacity: 1;
+    cursor: pointer;
 }
 
 /* Work And Each Box Section Style Ends*/
