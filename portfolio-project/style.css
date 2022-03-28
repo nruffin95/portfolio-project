@@ -70,7 +70,7 @@ header {
     position: absolute;
     bottom: 490px;
     left: 213px;
-    width: 160px;
+    width: 110px;
 }
 
 .hero-text {
@@ -245,3 +245,6 @@ header {
 .contactme-nav li a:hover {
     color: aqua;
 }
+/* Contact Me Section Style Ends*/
+
+
