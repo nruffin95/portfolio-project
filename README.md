@@ -7,3 +7,5 @@ such as my linkedin profile, email address as well as projects that i am working
 also added so that the page has quick navigation from the top navbar. Made possible by css grid and flex
 the page also allows for resizing of content to view on diffrent versions of mobile devices. The Project mock
 up is as follows. 
+
+![](images/screenshot.png)
