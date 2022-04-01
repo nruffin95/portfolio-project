@@ -8,4 +8,4 @@ also added so that the page has quick navigation from the top navbar. Made possi
 the page also allows for resizing of content to view on diffrent versions of mobile devices. The Project mock
 up is as follows. 
 
-![](images/screenshot.png)
+![](/docs/Images/screenshot.png)
