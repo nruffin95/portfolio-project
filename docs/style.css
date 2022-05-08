@@ -121,10 +121,11 @@ header {
 }
 
 .surf-report {
+    background-color: black;
     grid-column-start: -5;
     grid-column-end: -1;
     height: 200px;
-    background-image: url(./Images/placeholder-image1.jpg);
+    background-image: url(./Images/datepagepic.jpg);
     background-position: 50% 50%;
     right: 200px;
     opacity: 0.6;
