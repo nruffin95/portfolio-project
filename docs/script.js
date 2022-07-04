@@ -6,5 +6,5 @@ datePage.addEventListener('click', function(){
 })
 
 eap.addEventListener('click', function(){
-    window.open("https://test-keith97-app.herokuapp.com/");
+    window.open("https://employeeaide.herokuapp.com/");
 })
